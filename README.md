@@ -1,56 +1,44 @@
-<h1 align="center">Hey there 👋, I'm Peter Muraya Ndung'u (@Petermuraya)</h1>
+<h1 align="center">👋 Hey, I'm Peter Muraya Ndung'u (@Petermuraya)</h1> <p align="center"> 🚀 Tech-for-Good Innovator | 🩺 AI for Healthcare | 🌱 IoT & Cloud Enthusiast | 📊 Data-Driven Problem Solver </p>
+👨‍💻 About Me
+🔥 TechX Nyeri 2025 Ambassador
+Honored to be part of “Smart Tech: Unlocking the Future of AIOT in Africa’s Smart Revolution”. Excited to amplify bold ideas and connect innovators shaping Africa’s digital future.
 
-<p align="center">
-  🚀 Tech-for-good innovator | 🩺 AI for Healthcare | 🌱 IoT & Cloud Enthusiast | 💡 Data-Driven Creator
-</p>
+🔭 What I’m Building:
+🩺 AI-Powered Chest X-ray Abnormality Detection System
+🏨 Real-Time Hotel Price Prediction Platform for Africa
 
----
+💡 Passionate About:
+AI in healthcare, smart agriculture, IoT solutions, cloud-native systems, open-source collaboration, and digital inclusion for Africa.
 
-## 👨‍💻 About Me
+🌱 Learning & Exploring:
+AI model deployment at scale, React Server Components, edge AI, scalable cloud platforms, and advanced IoT integrations.
 
-- 🔭 Currently building: **AI-powered chest X-ray abnormality detection system** and **real-time hotel price prediction platform for Africa**.
-- 👀 Passionate about: **AI in healthcare, smart agriculture, IoT solutions, cloud systems, and open-source projects.**
-- 🌱 Always learning: **advanced AI model deployment, React Server Components, scalable cloud backends, and edge IoT device integrations**.
-- 💬 Ask me about: **Python, AI/ML, React, Next.js, IoT systems, Firebase, or data visualization.**
-- 💞️ Open to collaborating on: **health tech solutions, smart city systems, environmental protection tech, and meaningful community-driven projects.**
-- 📫 Reach me: **[petermurayandungu@gmail.com](mailto:sammypeter1944@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/petermuraya)
+💬 Let’s Connect on:
+Python, AI/ML, React, Next.js, IoT systems, Firebase, data visualization, scalable cloud backends, or building impactful tech for communities.
 
----
+🤝 Open for Collaboration:
+Health tech, smart cities, sustainability projects, and community-centered tech initiatives.
 
-## ⚡ Quick Facts
+📫 Contact Me:
+petermurayandungu@gmail.com | LinkedIn
 
-- 😄 Pronouns: **He/Him**
-- 🎓 Final Year BSc IT student | Karatina University
-- 🌍 Based in **Nairobi, Kenya**
-- 🛠️ Favorite tools: `Python`, `React`, `Next.js`, `Firebase`, `MongoDB`, `Flask`, `Docker`, `Leaflet`
-- 🖥️ Fun Fact: I built a **real-time disease mapping tool for rural Kenya** and I'm now integrating **AI into chest X-ray diagnostics!**
+⚡ Quick Facts
+😄 Pronouns: He/Him
 
----
+🎓 Final Year BSc IT Student | Karatina University
 
-## 📊 GitHub Stats
+🌍 Based in: Nairobi, Kenya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Petermuraya&show_icons=true&theme=radical" alt="Petermuraya's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Petermuraya&theme=radical" alt="GitHub Streak"/>
-</p>
+🛠️ Favorite Tools: Python, React, Next.js, Firebase, MongoDB, Flask, Docker, Leaflet
 
----
+🖥️ Fun Fact:
+Developed a real-time disease mapping tool for rural Kenya and now integrating AI into chest X-ray diagnostics.
 
-## 🔗 Connect With Me
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Petermuraya&show_icons=true&theme=radical" alt="Peter's GitHub Stats" /> <br/> <img src="https://streak-stats.demolab.com/?user=Petermuraya&theme=radical" alt="GitHub Streak Stats"/> </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/petermuraya" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:petermurayandungu@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+✨ Closing Thought
+“Tech is powerful when it bridges gaps, saves lives, and uplifts communities.”
+Let’s build meaningful, scalable, and inclusive tech — together.
 
-<p align="center">
-  <a href="https://linkedin.com/in/petermuraya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:petermurayandungu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!---
-Petermuraya/Petermuraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

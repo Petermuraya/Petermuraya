@@ -1,4 +1,4 @@
-# 🚀 **AIoT Innovator & Edge Intelligence Architect**  
+#  **AIoT Innovator & Edge Intelligence Architect**  
 
 <div align="center">
 
@@ -28,12 +28,12 @@
 
 ---
 
-## 🎯 **Dynamic Introduction**
+## 🎯 **Introduction**
 
 <div align="center">
 
 <!-- Main Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AIoT+Architect+%7C+Cloud-Native+Innovator+%7C+Edge+AI+Pioneer;Building+Intelligent+Systems+for+Healthcare+%26+Smart+Cities;Transforming+Africa+through+4IR+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AIoT+Architect+%7C+Cloud-Native+Innovator+%7C+Edge+AI+Pioneer;Building+Intelligent+Systems+for+Healthcare;Transforming+Africa+through+4IR+Technologies" alt="Typing SVG" />
 
 <!-- Secondary Typing SVG -->
 <p align="center">

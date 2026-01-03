@@ -2,8 +2,11 @@
 
 <div align="center">
 
-<!-- Dynamic Header with GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petermuraya/petermuraya/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/petermuraya/petermuraya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
+
 
 ### **PETER MURAYA NDUNGU**  
 ### *Where Intelligence Meets Infrastructure*  

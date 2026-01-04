@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120">
+  <rect width="100%" height="100%" fill="#0b1220" rx="6"/>
+  <!-- Simple contributions grid placeholder: 7 rows x 12 cols -->
+  <g transform="translate(12,12)">
+    <defs>
+      <rect id="cell" width="18" height="18" rx="3"/>
+    </defs>
+    <!-- draw grid -->
+    <g fill="#002b32" stroke="none">
+      <!-- generate cells -->
+      <!-- darker background cells -->
+    </g>
+    <!-- example snake path (highlighted cells) -->
+    <g fill="#2dd4bf">
+      <use href="#cell" x="0" y="36"/>
+      <use href="#cell" x="24" y="36"/>
+      <use href="#cell" x="48" y="36"/>
+      <use href="#cell" x="72" y="36"/>
+      <use href="#cell" x="72" y="12"/>
+      <use href="#cell" x="96" y="12"/>
+      <use href="#cell" x="120" y="12"/>
+      <use href="#cell" x="144" y="12"/>
+      <use href="#cell" x="144" y="36"/>
+      <use href="#cell" x="168" y="36"/>
+      <use href="#cell" x="192" y="36"/>
+    </g>
+    <!-- faint grid cells -->
+    <g fill="#011720" opacity="0.6">
+      <!-- draw typical grid layout -->
+      <!-- 7 rows, 12 cols -->
+      <!-- loop manually placed for compactness -->
+      <g transform="translate(0,0)">
+        <rect x="0" y="0" width="18" height="18" rx="3"/>
+        <rect x="24" y="0" width="18" height="18" rx="3"/>
+        <rect x="48" y="0" width="18" height="18" rx="3"/>
+        <rect x="72" y="0" width="18" height="18" rx="3"/>
+        <rect x="96" y="0" width="18" height="18" rx="3"/>
+      </g>
+      <g transform="translate(0,24)">
+        <rect x="0" y="0" width="18" height="18" rx="3"/>
+        <rect x="24" y="0" width="18" height="18" rx="3"/>
+        <rect x="48" y="0" width="18" height="18" rx="3"/>
+        <rect x="72" y="0" width="18" height="18" rx="3"/>
+        <rect x="96" y="0" width="18" height="18" rx="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

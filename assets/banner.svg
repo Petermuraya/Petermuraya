@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0ea5a9" />
+    </linearGradient>
+    <filter id="f" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="b" />
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" rx="14" fill="url(#g)" />
+  <g transform="translate(60,60)" fill="#fff" font-family="Inter, Roboto, Helvetica, Arial, sans-serif">
+    <text x="0" y="60" font-size="42" font-weight="700">AIoT Architecture</text>
+    <text x="0" y="110" font-size="18" fill="#e6fffa">Intelligent Systems — Edge to Cloud</text>
+  </g>
+  <g transform="translate(820,40)" opacity="0.18">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#fff" filter="url(#f)" />
+  </g>
+</svg>

@@ -4,7 +4,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/petermuraya/petermuraya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake-light.svg">
+  <img src="./output/github-contribution-grid-snake-light.svg" alt="GitHub Contribution Snake" width="100%" loading="lazy">
 </picture>
 
 
@@ -356,8 +357,12 @@ quadrantChart
 
 <div align="center">
 
-<!-- Placeholder for custom visual -->
-<img src="./assets/banner.svg" alt="AIoT Architecture" width="80%" style="border-radius: 10px;">
+<!-- Placeholder for custom visual (responsive to theme) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-light.svg" alt="AIoT Architecture" width="80%" style="border-radius: 10px;" loading="lazy">
+</picture>
 
 <p><i>Intelligent Systems Architecture - Edge to Cloud</i></p>
 
@@ -370,8 +375,12 @@ quadrantChart
 ### ⚡ **Ready to architect the intelligent future?**
 ### *Let's connect and transform possibilities into reality.*
 
-<!-- Footer Snake -->
-<img src="./output/github-contribution-grid-snake-dark.svg" alt="Footer Snake" width="100%">
+<!-- Footer Snake (theme-aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake-light.svg">
+  <img src="./output/github-contribution-grid-snake-light.svg" alt="Footer Snake" width="100%" loading="lazy">
+</picture>
 
 **© 2024 Peter Muraya Ndugu | AIoT Visionary | Building Africa's Digital Future**
 

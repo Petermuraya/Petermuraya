@@ -78,37 +78,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AIoT+Architect;Edge+AI+Pioneer;4IR+Innovator" alt="Title Typing" />
 </div>
 
-### *Where Intelligence Converges with Infrastructure*  
 
-<!-- Enhanced Badges with Hover Effects -->
-<div align="center" style="margin: 20px 0;">
-
-```html
-<!-- Premium Badge Collection -->
-<div class="badge-container">
-  <a href="https://github.com/petermuraya?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/petermuraya?color=7B68EE&logo=person-add&logoColor=white&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/petermuraya">
-    <img src="https://custom-icon-badges.demolab.com/badge/PROFILE-VIEWS-00FFFF?logo=eye&logoColor=black&style=for-the-badge" alt="Profile Views">
-  </a>
-  <a href="https://github.com/petermuraya?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/STATUS-BUILDING_IMPACT-00FFAA?logo=rocket&logoColor=black&style=for-the-badge" alt="Status">
-  </a>
-  <a href="https://www.linkedin.com/in/petermuraya/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LET'S_CONNECT-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/petermuraya?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/petermuraya?color=FFD700&logo=star&logoColor=black&style=for-the-badge&label=STARS&labelColor=0D1117" alt="GitHub Stars">
-  </a>
-</div>
-```
-
-</div>
-
-</div>
-
----
+Where Intelligence Converges with Infrastructure
+<div align="center"> <a href="https://github.com/petermuraya?tab=followers"> <img src="https://custom-icon-badges.demolab.com/github/followers/petermuraya?color=7B68EE&logo=person-add&logoColor=white&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117" alt="GitHub Followers" /> </a> <a href="https://github.com/petermuraya"> <img src="https://custom-icon-badges.demolab.com/badge/PROFILE-VIEWS-00FFFF?logo=eye&logoColor=black&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/petermuraya?tab=repositories"> <img src="https://custom-icon-badges.demolab.com/badge/STATUS-BUILDING_IMPACT-00FFAA?logo=rocket&logoColor=black&style=for-the-badge" alt="Status" /> </a> <a href="https://www.linkedin.com/in/peter-muraya-ndungu/"> <img src="https://custom-icon-badges.demolab.com/badge/LET'S_CONNECT-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> <a href="https://github.com/petermuraya?tab=stars"> <img src="https://custom-icon-badges.demolab.com/github/stars/petermuraya?color=FFD700&logo=star&logoColor=black&st
 
 ## 🎯 **Dynamic Introduction**
 

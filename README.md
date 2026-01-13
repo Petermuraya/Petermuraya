@@ -76,32 +76,16 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 40px 0;">
 
   <!-- GitHub Stats Card -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Petermuraya&theme=github_dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-one-beta-33.vercel.app/api?username=Petermuraya&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <!-- Most Used Languages -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Petermuraya&theme=github_dark" alt="Most Used Languages" />
-
-</div>
-
-<!-- Detailed Stats Row -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 40px 0;">
-
-  <!-- Total Commits -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Petermuraya&theme=github_dark" alt="Repos per Language" />
-  
-  <!-- Productivity -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Petermuraya&theme=github_dark&utcOffset=3" alt="Productive Time" />
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats-one-beta-33.vercel.app/api/top-langs/?username=Petermuraya&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
 <!-- Streak Stats -->
 <div align="center" style="margin: 40px 0;">
   <img align="center" src="https://streak-stats.demolab.com?user=Petermuraya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<!-- Top Languages -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Petermuraya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
@@ -113,7 +97,7 @@
   />
 </div>
 
-<!-- UPDATED: GitHub Trophies - Now using your username -->
+<!-- GitHub Trophies -->
 <div align="center" style="margin: 60px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=petermuraya&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>

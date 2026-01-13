@@ -72,7 +72,7 @@
 <!-- GitHub Statistics -->
 <h2 align="center" style="color: #FF6B6B; margin: 60px 0 30px 0;">📊 GITHUB STATISTICS</h2>
 
-<!-- ALTERNATIVE 1: Use GitHub Profile Summary Cards (WORKING) -->
+<!-- GitHub Stats Cards -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 40px 0;">
 
   <!-- GitHub Stats Card -->
@@ -94,17 +94,16 @@
 
 </div>
 
-<!-- ALTERNATIVE 2: Use Streak Stats (Still works) -->
+<!-- Streak Stats -->
 <div align="center" style="margin: 40px 0;">
   <img align="center" src="https://streak-stats.demolab.com?user=Petermuraya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<!-- ALTERNATIVE 3: Use simple-anime (Works reliably) -->
+<!-- Top Languages -->
 <div align="center" style="margin: 40px 0;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Petermuraya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Activity Graph - Use ashutosh007's service -->
 <!-- Activity Graph -->
 <div align="center" style="margin: 60px 0;">
   <img 
@@ -114,17 +113,10 @@
   />
 </div>
 
-<!-- GitHub Trophies - This should work -->
+<!-- UPDATED: GitHub Trophies - Now using your username -->
 <div align="center" style="margin: 60px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Petermuraya&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=petermuraya&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
-<!-- Contribution Snake - You need to set this up first -->
-<!--
-<div align="center" style="margin: 60px 0;">
-  <img src="https://raw.githubusercontent.com/Petermuraya/Petermuraya/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
--->
 
 <!-- Work Section -->
 <h2 align="center" style="color: #00D4FF; margin: 60px 0 30px 0;">💼 CURRENTLY AT</h2>
@@ -134,12 +126,66 @@
   <p style="color: #8B949E; font-size: 16px; margin-top: 10px;">Engineering intelligent systems for Africa's leading telecom</p>
 </div>
 
-<!-- Test these links first before adding -->
-<div align="center" style="margin: 30px 0; color: #8B949E; font-size: 14px;">
-  <p><strong>Testing Links:</strong></p>
-  <p>Stats: <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Petermuraya" target="_blank">Click to test</a></p>
-  <p>Streak: <a href="https://streak-stats.demolab.com?user=Petermuraya" target="_blank">Click to test</a></p>
-  <p>Activity: <a href="https://activity-graph.herokuapp.com/graph?username=Petermuraya" target="_blank">Click to test</a></p>
+<!-- Featured Projects Section -->
+<h2 align="center" style="color: #00D4FF; margin: 60px 0 30px 0;">🌟 FEATURED PROJECTS</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 40px 0;">
+  
+  <!-- Project Card 1 -->
+  <div style="background: linear-gradient(135deg, rgba(25, 30, 40, 0.9), rgba(0, 30, 60, 0.9)); border-radius: 15px; padding: 25px; width: 300px; border: 1px solid rgba(0, 212, 255, 0.2);">
+    <h3 style="color: #00D4FF; margin-bottom: 15px;">🤖 AIoT Platform</h3>
+    <p style="color: #CCD6F6; font-size: 14px;">End-to-end AIoT platform for real-time monitoring and predictive maintenance</p>
+    <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+      <span style="background: #2D3748; color: #68D391; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Python</span>
+      <span style="background: #2D3748; color: #4299E1; padding: 5px 12px; border-radius: 20px; font-size: 12px;">TensorFlow</span>
+      <span style="background: #2D3748; color: #ED8936; padding: 5px 12px; border-radius: 20px; font-size: 12px;">AWS</span>
+    </div>
+  </div>
+  
+  <!-- Project Card 2 -->
+  <div style="background: linear-gradient(135deg, rgba(25, 30, 40, 0.9), rgba(0, 30, 60, 0.9)); border-radius: 15px; padding: 25px; width: 300px; border: 1px solid rgba(0, 212, 255, 0.2);">
+    <h3 style="color: #00D4FF; margin-bottom: 15px;">⚡ Edge AI Framework</h3>
+    <p style="color: #CCD6F6; font-size: 14px;">Optimized AI models for edge devices with real-time inference capabilities</p>
+    <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+      <span style="background: #2D3748; color: #68D391; padding: 5px 12px; border-radius: 20px; font-size: 12px;">C++</span>
+      <span style="background: #2D3748; color: #4299E1; padding: 5px 12px; border-radius: 20px; font-size: 12px;">OpenCV</span>
+      <span style="background: #2D3748; color: #ED8936; padding: 5px 12px; border-radius: 20px; font-size: 12px;">ONNX</span>
+    </div>
+  </div>
+  
+  <!-- Project Card 3 -->
+  <div style="background: linear-gradient(135deg, rgba(25, 30, 40, 0.9), rgba(0, 30, 60, 0.9)); border-radius: 15px; padding: 25px; width: 300px; border: 1px solid rgba(0, 212, 255, 0.2);">
+    <h3 style="color: #00D4FF; margin-bottom: 15px;">🌐 Digital Solutions</h3>
+    <p style="color: #CCD6F6; font-size: 14px;">Full-stack solutions for digital transformation in African markets</p>
+    <div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+      <span style="background: #2D3748; color: #68D391; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Next.js</span>
+      <span style="background: #2D3748; color: #4299E1; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Node.js</span>
+      <span style="background: #2D3748; color: #ED8936; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Supabase</span>
+    </div>
+  </div>
+
+</div>
+
+<!-- Achievement Highlights -->
+<h2 align="center" style="color: #00D4FF; margin: 60px 0 30px 0;">🏆 ACHIEVEMENT HIGHLIGHTS</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 40px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; width: 200px;">
+    <p style="font-size: 24px; font-weight: bold; color: white; margin: 0;">30+</p>
+    <p style="color: #E2E8F0; margin: 5px 0 0 0;">Projects</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; width: 200px;">
+    <p style="font-size: 24px; font-weight: bold; color: white; margin: 0;">5+</p>
+    <p style="color: #E2E8F0; margin: 5px 0 0 0;">Years Experience</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; width: 200px;">
+    <p style="font-size: 24px; font-weight: bold; color: white; margin: 0;">100+</p>
+    <p style="color: #E2E8F0; margin: 5px 0 0 0;">Contributions</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 10px; width: 200px;">
+    <p style="font-size: 24px; font-weight: bold; color: white; margin: 0;">50k+</p>
+    <p style="color: #E2E8F0; margin: 5px 0 0 0;">Lines of Code</p>
+  </div>
 </div>
 
 <hr style="border: 1px solid rgba(0, 212, 255, 0.2); margin: 50px 0;" />

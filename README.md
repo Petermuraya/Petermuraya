@@ -52,8 +52,8 @@
 <!-- GitHub Stats -->
 <h2 align="center" style="color: #FF6B6B; margin: 60px 0 30px 0;">📊 GITHUB STATS</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img align="center" src="https://github-readme-stats-one-beta-33.vercel.app/api?username=Petermuraya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats-one-beta-33.vercel.app/api/top-langs/?username=Petermuraya&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Petermuraya&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petermuraya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- Streak & Activity -->
@@ -62,24 +62,27 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Petermuraya&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=9B59B6&line=00D4FF&point=FFD700&title_color=FFFFFF&custom_title=Development+Activity+Heatmap&title_size=24" alt="Activity Graph" style="border-radius: 15px;" />
 </div>
 
-<!-- Snake Game Widget -->
-<!-- Snake Game Animation -->
+<!-- Star History -->
+<h2 align="center" style="color: #FFD700; margin: 60px 0 30px 0;">⭐ STAR HISTORY</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Petermuraya/Petermuraya/output/snake.svg" alt="Snake Game" />
+  <a href="https://star-history.com/#petermuraya&Date">
+    <img src="https://api.star-history.com/svg?repos=petermuraya&type=Date&theme=dark" alt="Star History" style="border-radius: 15px;"/>
+  </a>
 </div>
 
-<!-- Timeline/Calendar View -->
-<h2 align="center" style="color: #00D4FF; margin: 60px 0 30px 0;">📅 CONTRIBUTION CALENDAR</h2>
-<div align="center">
-  <img src="https://ghchart.rshah.org/Petermuraya" alt="Peter's GitHub Contributions" style="border-radius: 15px;" />
+<!-- Contribution graph -->
+<!-- Contribution graph -->
+<h2 align="center" style="color: #00D4FF; margin: 60px 0 30px 0;">📅 CONTRIBUTION Graph</h2>
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 15px;">
+  <img 
+    src="https://ghchart.rshah.org/Petermuraya?bg=0D1117&color=00D4FF&line=8B949E&point=39FF14" 
+    alt="Peter's GitHub Contributions" 
+    style="border-radius: 15px; width: 100%; max-width: 700px;" 
+  />
   <p style="color: #8B949E; margin-top: 10px;">Yearly Contribution Activity</p>
 </div>
 
-<!-- Star Graph -->
-<h2 align="center" style="color: #FFD700; margin: 60px 0 30px 0;">⭐ STAR HISTORY</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Petermuraya&show_icons=true&count_private=true&theme=radical&include_all_commits=true" alt="GitHub Star Graph" />
-</div>
+
 
 <!-- Footer -->
 <footer align="center" style="color: #8B949E; font-size: 14px; margin-top: 50px;">

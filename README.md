@@ -92,15 +92,7 @@
 
 ---
 
-## 🐍 Contribution Snake (GitHub Action)
 
-> Generated via GitHub Actions (no external API instability)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/petermuraya/petermuraya/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📅 Contribution Overview
 
@@ -110,15 +102,20 @@
 
 ---
 
-## ⭐ Star History
+## ⭐ Star History (Last 12 Months)
+
+A look at how this repository has grown in popularity over the past year.
 
 <p align="center">
-  <a href="https://star-history.com/#petermuraya&Date">
-    <img src="https://api.star-history.com/svg?repos=petermuraya&type=Date&theme=dark"/>
+  <a href="https://star-history.com/#Petermuraya/Petermuraya&Date">
+    <img
+      src="https://api.star-history.com/svg?repos=Petermuraya/Petermuraya&type=Date&range=1y&theme=dark"
+      alt="Star History for the last 12 months"
+    />
   </a>
 </p>
 
----
+
 
 ## 🚀 Current Focus
 

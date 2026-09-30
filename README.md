@@ -10,8 +10,8 @@ Building practical digital systems for healthcare, intelligent automation, conne
 
 <p>
   <a href="https://github.com/Petermuraya"><img src="https://img.shields.io/badge/GitHub-Petermuraya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ndungu-muraya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://petermuraya.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ke.linkedin.com/in/peter-muraya-a8b19776"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://petermuraya.github.io/muraya"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=petermuraya&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views"/>
@@ -242,9 +242,9 @@ For larger systems, that means:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ndungu-muraya/"><img src="https://img.shields.io/badge/LinkedIn-Peter%20Muraya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ke.linkedin.com/in/peter-muraya-a8b19776"><img src="https://img.shields.io/badge/LinkedIn-Peter%20Muraya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Petermuraya"><img src="https://img.shields.io/badge/GitHub-Petermuraya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://petermuraya.github.io"><img src="https://img.shields.io/badge/Portfolio-petermuraya.github.io-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://petermuraya.github.io/muraya"><img src="https://img.shields.io/badge/Portfolio-petermuraya.github.io-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 

@@ -1,142 +1,253 @@
-<!-- ===================================================== -->
-<!--      Peter Muraya | AIoT • Edge AI • Full Stack        -->
-<!-- ===================================================== -->
-
-<img align="right" src="https://komarev.com/ghpvc/?username=petermuraya&label=Profile%20Views&color=00D4FF&style=flat" />
+<!-- Profile README redesign: project-focused, accessible, and lightweight -->
 
 <div align="center">
 
-<h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Peter+Muraya;AIoT+Engineer;Edge+AI+Pioneer;Full+Stack+Developer;Building+Technology+for+Africa"
-  />
-</h1>
+# Peter Muraya Ndung'u
 
-<h3>Designing intelligent systems for Africa’s digital future 🇰🇪</h3>
+### AI • IoT • Healthcare Technology • Full-Stack Engineering
 
-<br/>
+Building practical digital systems for healthcare, intelligent automation, connected devices, and African technology ecosystems.
 
-<!-- Core Badges -->
 <p>
-  <img src="https://img.shields.io/github/followers/petermuraya?label=Followers&style=for-the-badge&color=9B59B6"/>
-  <img src="https://img.shields.io/github/stars/petermuraya?label=Stars&style=for-the-badge&color=FFD700"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Driven-for-the-badge&color=FF6B6B"/>
+  <a href="https://github.com/Petermuraya"><img src="https://img.shields.io/badge/GitHub-Petermuraya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ndungu-muraya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://petermuraya.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<br/>
-
-<!-- Contact -->
-<p>
-  <a href="mailto:sammypeter1944@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ndungu-muraya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://petermuraya.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
-  </a>
-  <a href="https://twitter.com/petermuraya">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=petermuraya&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views"/>
 
 </div>
+
+---
+
+## 👋 About
+
+I am a Kenyan software developer focused on turning real operational problems into reliable software.
+
+My work spans:
+
+- 🏥 **Healthcare systems** — clinical workflows, patient journeys, billing, finance, inventory, diagnostics and hospital operations
+- 🤖 **AI & computer vision** — medical-image analysis and intelligent decision-support experiences
+- 🌐 **IoT & connected systems** — real-time telemetry, cloud-connected devices and automation
+- ☁️ **Cloud-native applications** — secure APIs, databases, integrations and deployment workflows
+- 🇰🇪 **Technology for Africa** — products designed around real infrastructure, affordability and operational constraints
+
+> **Engineering principle:** build software that works in the real world, not only in a demo.
+
+---
+
+## 🚀 Featured Work
+
+### 🏥 Cosmos Clinic — Hospital Management Platform
+
+**Full-stack HMIS for multi-department hospital operations.**
+
+Clinical care, patient journeys, billing, finance/accounting, inventory/pharmacy, procurement, diagnostics, nursing, emergency, appointments and administration are being developed as connected workflows rather than isolated screens.
+
+**Stack:** Next.js • React • TypeScript • ASP.NET Core • .NET 10 • PostgreSQL
+
+<a href="https://github.com/Petermuraya/cosmosclinic">View Cosmos Clinic →</a>
+
+---
+
+### 🩺 ThoraxIQ — AI Chest X-Ray Analysis
+
+AI-powered chest-radiology platform concept focused on explainable detection of thoracic conditions including pneumonia, tuberculosis, lung cancer and pneumothorax, with clinician/radiologist collaboration and multilingual access.
+
+**Stack:** React • TypeScript • AI/ML • Medical Imaging
+
+<a href="https://github.com/Petermuraya/thorax-arbnomalies-detection">View ThoraxIQ →</a>
+
+---
+
+### 🏥 DolphineHMS / Anecate Medical Centre
+
+Healthcare-management work exploring practical hospital workflows, clinical operations, billing, integrations and deployment for medical-centre environments.
+
+**Focus:** HMIS • Laravel / PHP • Next.js • PostgreSQL • eTIMS • M-Pesa • messaging/integration workflows
+
+<a href="https://github.com/Petermuraya/DolphineHMS">DolphineHMS →</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/Petermuraya/anecatemedicalcentre">Anecate Medical Centre →</a>
+
+---
+
+### 💊 NavMed — Digital Health
+
+A healthcare technology project from the wider health-tech portfolio, reflecting the goal of making useful medical information and digital health workflows more accessible.
+
+<a href="https://github.com/Petermuraya/navmed">View NavMed →</a>
+
+---
+
+### 🏫 Anchor Junior Academy
+
+An education-focused web application demonstrating product development around real organizational workflows and user-facing experiences.
+
+<a href="https://github.com/Petermuraya/anchor-junior-academy">View project →</a>
+
+---
+
+### 🌍 Personal Technology Portfolio
+
+A broader showcase of AI, IoT, cloud and technology-for-Africa work across healthcare, agriculture, conservation and digital inclusion.
+
+<a href="https://github.com/Petermuraya/personal-website">View portfolio repository →</a>
+
+---
+
+## 🧩 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare
+
+- Hospital information systems
+- Patient journeys & ADT
+- Clinical documentation
+- Nursing & emergency workflows
+- Laboratory & radiology
+- Pharmacy & inventory
+- Billing & revenue cycle
+- Finance & accounting
+- Role-based access control
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+- Computer vision
+- Medical-image analysis
+- Machine learning workflows
+- Data processing
+- Decision-support interfaces
+- Intelligent assistants
+- Analytics dashboards
+- Operational reporting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 IoT & Cloud
+
+- Connected devices
+- MQTT / real-time messaging
+- Cloud integrations
+- Telemetry
+- Automation
+- Edge/AI workloads
+- Secure APIs
+- Deployment pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### 🇰🇪 Digital Products
+
+- Fintech/payment integrations
+- eTIMS workflows
+- M-Pesa integrations
+- SMS/WhatsApp workflows
+- Education platforms
+- Agriculture technology
+- Digital inclusion
+- Business automation
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,postgres,mongodb,supabase&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Performance
-
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=petermuraya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-  height="165"
-/>
+### Application Development
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=petermuraya&layout=compact&theme=radical&hide_border=true"
-  height="165"
-/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,php,laravel,cs,dotnet&perline=10" alt="Application technologies"/>
+
+### Data, AI & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,tensorflow,opencv,docker,kubernetes,aws,azure,githubactions&perline=10" alt="Data and infrastructure technologies"/>
+
+### Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash&perline=10" alt="Engineering tools"/>
 
 </div>
 
 ---
 
-## 🔥 Consistency & Activity
+## 🏗️ Engineering Approach
+
+I prefer systems where the frontend, backend, database and operational workflow agree with each other.
+
+**Design → Domain model → API → UI → Validation → Auditability → Testing → Deployment**
+
+For larger systems, that means:
+
+- 🔐 permissions are enforced at the correct boundary
+- 🔄 cross-module events are traceable and recoverable
+- 💰 financial transactions have an auditable source
+- 📦 stock movements have accountable inventory events
+- 🧾 documents and receipts remain reproducible
+- 🧭 users can understand where they are and what to do next
+- 📊 dashboards represent real system data rather than decorative numbers
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- GitHub Streak (Demolab - as requested) -->
-<img
-  src="https://streak-stats.demolab.com/?user=Petermuraya&theme=dark"
-  alt="GitHub Streak Stats"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=petermuraya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petermuraya&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Petermuraya&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=petermuraya&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=petermuraya&hide_border=true&area=true&radius=12" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
+## 🌍 Areas of Interest
 
-
-## 📅 Contribution Overview
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00D4FF/petermuraya" />
-</p>
+`AI Engineering` `Healthcare Technology` `IoT` `Edge AI` `Computer Vision` `Cloud Computing` `Full-Stack Development` `Digital Health` `FinTech` `Data Engineering` `Automation` `African Technology`
 
 ---
 
-## ⭐ Star History (Last 12 Months)
+## 📌 Currently Building
 
-A look at how this repository has grown in popularity over the past year.
-
-<p align="center">
-  <a href="https://star-history.com/#Petermuraya/Petermuraya&Date">
-    <img
-      src="https://api.star-history.com/svg?repos=Petermuraya/Petermuraya&type=Date&range=1y&theme=dark"
-      alt="Star History for the last 12 months"
-    />
-  </a>
-</p>
-
-
-
-## 🚀 Current Focus
-
-- 🤖 AIoT & Edge AI deployments  
-- 🌍 Civic-tech & digital governance platforms  
-- ☁️ Cloud-native & serverless systems  
-- 🔐 Secure, real-time web applications  
+- 🏥 **Production-grade healthcare workflows** with connected clinical, operational and financial modules
+- 🤖 **AI-assisted software experiences** that help users complete real tasks
+- 💰 **Auditable billing and accounting systems** with reliable transaction lineage
+- 📦 **Inventory and procurement workflows** connected to financial operations
+- 🔐 **Secure, permission-aware platforms** designed for multi-user organizations
+- 🌍 **Practical technology for African operating environments**
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🤝 Connect
 
-> *“Build technology that works in the real world — not just in ideal conditions.”*
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/ndungu-muraya/"><img src="https://img.shields.io/badge/LinkedIn-Peter%20Muraya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Petermuraya"><img src="https://img.shields.io/badge/GitHub-Petermuraya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://petermuraya.github.io"><img src="https://img.shields.io/badge/Portfolio-petermuraya.github.io-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 
-<footer align="center">
+<br/><br/>
 
-© 2026 **Peter Muraya**  
-Built with ❤️ in Kenya 🇰🇪  
+**Built in Kenya 🇰🇪 • Designed for real-world impact**
 
-**#AIoT #EdgeAI #OpenSource #DigitalTransformation**
-
-</footer>
+</div>
